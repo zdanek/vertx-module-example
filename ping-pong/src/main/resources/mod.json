@@ -1,0 +1,12 @@
+{
+    "main":"pl.zdanek.StarterVerticle",
+
+    "includes": "pl.zdanek.jday~ping~1.0-SNAPSHOT",
+    "includes": "pl.zdanek.jday~pong~1.0-SNAPSHOT",
+
+    "description":"Ping Pong Example using other modules",
+    "licenses": ["The Apache Software License Version 2.0"],
+    "author": "Bartek Zdanowski",
+
+    "auto-redeploy": true
+}
